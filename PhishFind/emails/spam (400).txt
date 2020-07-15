@@ -1,0 +1,21 @@
+Nationwide	20th May 2018
+Important message from Nationwide.
+
+"X-CMAE-Envelope:
+MS4wfAJ+RoPrBDJOROxmH5XUBne7F+ojnWEQLMKlMk5X3jus3Lh2V+J
+SPzR5BwL9z4oBD6MJIJkE+mz6ANntA2D2dEA5G1z0sjdJHsKEbVcGgl
+huAE4z3Cuw
+SwWrVlyERS7h2uz8+bhKFo2XGGZpn3aTLjZjHMX4tvvblCT4EIcGHk
+lhjWqSgJpoLastPHfXBTEm9JFME/fidNDuzfdgqqx0ppY=
+
+body
+
+pDear Customer,/p
+p/p
+pYour online access has been limited due to some
+security issues./p
+p/p
+pTo continue using our online services please
+a href="http://interop.cryptsoft.com/login/9037291/"Log
+In/a and follow the
+..."

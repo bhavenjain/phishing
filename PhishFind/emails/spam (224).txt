@@ -1,0 +1,26 @@
+Apple Support	30th August 2018
+RE: [ Notification Alerts ] [ Update Statement Info ]
+We have sent an email about your information account
+has
+
+"been changed and your request to reset iCloud password
+
+
+YOUR APPLE ID WAS LOCKED
+
+Unauthorized devices was successfully sign and request
+to reset your Apple ID password from our client area.
+
+DETAILS :
+
+* Date and Time : August 29, 2018 02:08:44 AM
+* IP Address : 8.131.54.132
+* Location : Sri Lanka
+* Browser : Safari
+
+Please visit Apple Support to get re-access your
+account and using our Apple ID services again.
+
+REGARDS,
+
+..."

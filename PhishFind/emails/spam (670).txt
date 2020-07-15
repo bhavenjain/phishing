@@ -1,0 +1,30 @@
+Bank of America	19th May 2018
+Security Validation Alert
+
+"
+Dear Customer,
+
+We are sorry, we suspended your account for your
+protection.
+
+We fraud defenses detected signs that your account or
+information
+
+may have been compromised, which prompted us to
+temporarily
+
+deactivate it.
+
+For your protection, we would need additional
+information to verify
+
+your account.
+
+Sign in to online banking to begin your activation
+process.
+
+Sign in to REACTIVATE YOUR ACCOUNT.
+
+Sincerely,
+
+Fraud Department"

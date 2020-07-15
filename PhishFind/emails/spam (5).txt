@@ -1,0 +1,18 @@
+Yahoo UK	19th May 2018
+Yahoo UK Security Issue
+
+"
+Dear [[janetmarknorris@yahoo.co.uk]],
+
+We are writing to alert you that your yahoo account has
+been suspended. To remove any restrictions,
+
+you need to confirm your email adress and log-in using
+the following link:
+http://onlineuserinternukinfo.serveftp.org/profileyahoo
+-uk/
+
+2017 Yahoo UK. All Rights Reserved
+
+
+..."

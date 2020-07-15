@@ -1,0 +1,20 @@
+service@paypal.co.uk	20th May 2018
+Your account will be limited until we hear from you.
+
+"
+------------------------------------------------------
+----------------
+We need your help
+-------------------------------------------------------
+---------------
+
+We emailed you a little while ago to ask for your help
+resolving an issue
+with your PayPal account. Your account is still
+temporarily limited because
+we haven't heard from you.
+
+We understand it may be frustrating not to have full
+access to your PayPal
+account. We want to work with you to get your
+account..."

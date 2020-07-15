@@ -1,0 +1,21 @@
+service@paypal.com	20th May 2018
+your account has been limited until we hear from you
+
+"MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-OriginalArrivalTime: 04 Jan 2017 23:46:03.0488 (UTC)
+FILETIME=[B5BE2600:01D266E4]
+
+Pay Pal Secure
+
+Dear Client.
+We have noticed that some data from your account
+information seems
+inaccurate or unverified. You have to check your
+information in order
+to continue using our service smoothly, please check
+your account
+information by clicking the link below.
+..."

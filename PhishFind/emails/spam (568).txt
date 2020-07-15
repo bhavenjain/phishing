@@ -1,0 +1,27 @@
+spoof	19th May 2018
+What did he hit?
+
+"
+Interfaces are not here to simulate inheritance, which
+it seems you're trying to think of.
+
+Interfaces are that how they named — interface.
+
+Consider this stupid and useless interface which
+however will be good illustration:
+
+type filesystem interface {
+
+List(dir string) []files
+
+Reader(file string) io.Reader
+
+Writer(file string) io.Writer
+
+}
+
+and its implementations:
+
+type localfs struct {}
+
+func (l *localfs) L..."

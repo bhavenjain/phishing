@@ -1,0 +1,24 @@
+AppleID	20th May 2018
+Your Apple ID has been locked for security reasons.
+
+"
+Hello,
+
+For your protection, your Apple ID is automatically
+disabled.
+
+We detect unauthorized Login Attempts to your Apple ID
+from other IP Location. Please verify your identity
+today or your
+account will be disabled due to concerns we have for
+the safety and integrity of the Apple Community
+
+WHAT TO DO NEXT
+To verify your Apple ID, we recommend that you go to:
+VERIFY YOUR APPLE ID
+
+Sincerely,
+
+Apple Inc.
+
+More ways to shop: Visit an Apple Sto..."

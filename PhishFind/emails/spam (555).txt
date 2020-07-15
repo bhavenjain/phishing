@@ -1,0 +1,20 @@
+American Express	19th May 2018
+Alert Notice from American Express
+
+"
+NOTIFICATION PRIVACY BORDER-LEFT-STYLE: none;
+BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none;
+DISPLAY: block"
+alt=""
+src="http://www208.americanexpress.com/axp/cardart/2008
+/img_premrewardsgolddig.gif" width` height7>
+
+IMPORTANT INFORMATION REGARDING YOUR ACCOUNT
+
+A purchase of $415 to Amazon was recently made through
+your debit card, which automatically triggered our
+fraud
+detection system.
+
+Thus we blocked the transaction and we have temporarily
+frozen your ..."

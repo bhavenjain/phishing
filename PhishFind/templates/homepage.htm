@@ -1,0 +1,150 @@
+<!DOCTYPE htm>
+<html>
+<head>
+	<title>HomePage</title>
+	{% load static %}
+	<link rel="stylesheet" href="/static/stylesheet.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		body,html{
+			height:100%;
+			margin:0;
+			top:0;
+			padding:0;
+			background-color: .5s;
+		}
+	input[type=submit] {
+  			background-color: #EAE9E9;
+  			color: black;
+  			padding: 12px 20px;
+  			border: none;
+  			font-size: 20px;
+  			letter-spacing: 5px;
+  			height:50px;
+  			max-width: 200px;
+  			margin-left: 44%;
+  			width:200px;
+  			-webkit-transition: 0.5s;
+  			transition: 0.7s;
+  			border-radius: 4px;
+  			float: center;
+		}
+
+	input[type=submit]:hover {
+  			background-color: #29648A;
+
+	}
+
+
+	@media screen and (max-height: 450px) {
+ 		.sidenav {padding-top: 15px;}
+  	    .sidenav a {font-size: 18px;}
+	}
+
+
+	</style>
+</head>
+<body style="transition: background-color 1s;">
+
+
+	<div class="parallax" style="left:0;right:0;top:0;">
+
+
+		<div id="main" style="color:white;">
+  		<span style="font-size:30px;cursor:pointer; color:white;" onclick="openNav()">&#9776; open</span>
+		</div>
+
+
+
+		<h1 class="heading" style="margin-top: 250px;">PHISH FIND</h1>
+		<br>
+		<h2 style="color:white;opacity:0.5;letter-spacing: 4px;text-align:center;font-size:20px;">CATCH THE PHISHES OF THE NET</h2>
+
+		<div id="mySidenav" class="sidenav">
+  		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  		<a href="#">Home Page</a>
+ 		<a href="#">Mail Check</a>
+  		<a href="#">Contact</a>
+	    </div>
+
+
+	</div>
+
+
+
+	<div style=" height: 100%;opacity:0.95; background-color: black;overflow:hidden;color:white;">
+			<br><br><br><br>
+
+
+		<h1 class= "heading2" style="font-size:50px;opacity:0.7;">WHAT THIS PROCESS IS ALL ABOUT</h1>
+		<br><br>
+
+
+		<p style= "font-size:30px;margin-left:50px;opacity:0.8;margin-right:50px;letter-spacing:3px;text-align: center;">Our prototype website allows you to paste text in a box and it will read and sift through the text to
+find the relevant information to tell us whether it is a phishing/scam email or not. Furthermore, if it
+is a phishing email it tells you the website or company it is trying to impersonate, our website also
+shows the company that has been impersonated the most. Our app is more useful in our daily live
+since most of us work on our phones more than our laptops. It identifies texts from unknown
+sources and automatically identifies if it is a phishing attempt or not. For known contacts, the option
+to verify messages and various links is given to the user.<br>
+Our prototype identifies phishing and scam emails, links, URLs on your website and mobile phones.
+For anyone that is connected to the internet is liable to receive phishing messages and our solution
+helps us prevent new ways of phishing attacks to succeed while keeping the old ones from resurging.</p>
+		<br>
+
+	</div>
+
+<div class="parallax1" style="height:130%;">
+
+
+		<br><br><br><br><br>
+		<h1 class= "heading2" style="font-size:50px;opacity:0.9;">COPY THE LINK BELOW</h1>
+		<br><br><br><br>
+
+
+		<form action = "http://127.0.0.1:8000/external/" method = 'post'>
+		{% csrf_token %}
+
+ 		 <textarea style="color:white; height:400px;"  placeholder="Write something.." name = 'param' required></textarea>
+ 		 <br><br><br><br><br>
+ 		 <div style="font-family: comic-sans-ms; color: white;letter-spacing: 2.5px; text-align: center;font-size: 20px;">
+ 		 {{data1}}
+ 		 </div>
+<br><br><br><br>
+
+ 		 <hr>
+ 		 <br><br>
+    	<input type="submit" value="Check" style="float:center;">
+
+		</form>
+
+</div>
+	<div style="height: 870px;opacity:0.95; background-color: black;overflow:hidden;color:white;">
+			<br><br><br>
+		<br><br><br>
+		<h1 class= "heading2" style="font-size:50px;opacity:0.7;">BY THE CYBER PUNKS</h1>
+		<br><br><br><br>
+		<h2 style="color:white;opacity:0.6;letter-spacing: 10px;text-transform:uppercase;font-family:comic sans MS;text-align:center;font-size:30px;">Devansh Goel</h2>
+		<br>
+		<h2 style="color:white;opacity:0.6;letter-spacing: 10px;text-transform:uppercase;font-family:comic sans MS;text-align:center;font-size:30px;">Khush Paliwal</h2>
+		<br>
+		<h2 style="color:white;opacity:0.6;letter-spacing: 10px;text-transform:uppercase;font-family:comic sans MS;text-align:center;font-size:30px;">Sanskar Agarwal</h2>
+		<br>
+		<h2 style="color:white;opacity:0.6;letter-spacing: 10px;text-transform:uppercase;font-family:comic sans MS;text-align:center;font-size:30px;">Bhaven Jain</h2>
+	</div>
+
+	<script>
+		function openNav() {
+		  document.getElementById("mySidenav").style.width = "250px";
+		  document.getElementById("main").style.marginLeft = "250px";
+ 		 document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+	}
+
+	function closeNav() {
+ 		 document.getElementById("mySidenav").style.width = "0";
+ 		 document.getElementById("main").style.marginLeft= "0";
+ 		 document.body.style.backgroundColor = "white";
+	}
+	</script>
+</body>
+</html>

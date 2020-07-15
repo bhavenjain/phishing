@@ -1,0 +1,143 @@
+.parallax{
+	background-image: url('back.jpg');
+	height:100%;
+	overflow:hidden;
+	bottom:100%;
+	width:100%;
+	padding:0px;
+	background-attachment: fixed;
+	background-position:absolute;
+	background-repeat:no-repeat;
+	background-size: cover;
+	top:0;
+}
+
+.parallax1{
+	background-image: url('back.jpg');
+	height:180%;
+	overflow:hidden;
+	bottom:100%;
+	width:100%;
+	padding:0px;
+	background-attachment: fixed;
+	background-position:absolute;
+	background-repeat:no-repeat;
+	background-size: cover;
+	top:0;
+}
+
+textarea {
+ 				width: 99%;
+  			height: 500px;
+  			padding: 12px 20px;
+  			opacity:0.9;
+  			border:none;
+  			color:white;
+  			box-sizing: border-box;
+  			border: 2px solid #ccc;
+  			border-radius: 4px;
+  			background-color: #f8f8f8;
+  			font-size: 16px;
+  			margin-left:08px;
+  			-webkit-transition: 0.5s;
+  			transition: 0.9s;
+  			float:center;
+  			align-self: center;
+  			outline: none;
+  			resize: none;
+		}
+
+textarea:hover {
+  			border: 3px solid #555;
+  			height:360px;
+		}
+.parallax2{
+	background-image: url('credit.png');
+	height:100%;
+	overflow:hidden;
+	bottom:100%;
+	width:100%;
+	padding:0px;
+	background-attachment: fixed;
+	background-position:absolute;
+	background-repeat:no-repeat;
+	background-size: cover;
+	top:0;
+}
+
+.sidenav{
+	height:100%;
+	top:0;
+	left:0;
+	transition: 0.5s;
+	position:fixed;
+	background-color: #111;
+	overflow-x: hidden;
+	z-index:1;
+	padding-top: 60px;
+}
+
+.sidenav a {
+	padding:8px 8px 8px 32px;
+	text-decoration: none;
+	font-size:25px;
+	color:#818181;
+	display: block;
+  	transition: 0.3s;
+}
+
+.sidenav a:hover{
+	color: #f1f1f1;
+}
+
+.sidenav .closebtn{
+	margin-left: 50px;
+	top:0;
+	right:25px;
+	font-size:35px;
+	position:absolute;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.heading{
+	font-size:120px;
+	text-align: center;
+	font-family: Times New Roman;
+	color:#FAFAFA;
+	-webkit-transition:1.5s;
+	transition:1.5s;
+	transition-delay: 0.2s;
+	text-shadow: 1px 2px 3px black;
+	letter-spacing:30px;
+	opacity:0.85;
+}
+
+.heading:hover{
+	color:#FFFDFB;
+	font-size: 130px;
+	letter-spacing: 40px;
+	opacity:1;
+}
+.heading2{
+	color:white;
+	text-align:center;
+	letter-spacing: 20px;
+	font-size:50px;
+	text-shadow: 2px 3px 2px black;
+	-webkit-transition:width 1s;
+	transition: 1s;
+}
+
+
+.heading2:hover {
+	letter-spacing:25px;
+}

@@ -1,0 +1,19 @@
+TSB Bank Plc	20th May 2018
+Important Notice (New Online Banking Authentication
+Procedure)
+
+"
+IMPORTANT NOTICE
+
+PLEASE NOTE: Starting from June 18 2018 we will be
+implementing new login authentication procedures in
+order to
+safeguard your account information. Part of these
+procedures will be the introduction of our two step
+authentication
+system which will prevent access to your account by a
+third party, this system will work by comparing
+information from
+the device being used to access our sites against data
+we previously hold regarding the devices you most
+frequentl..."

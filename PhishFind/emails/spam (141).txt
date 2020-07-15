@@ -1,0 +1,19 @@
+Chase Bank	20th May 2018
+Dear Chase Online Customer: Important Notification
+
+"
+Note: This is a service message with information
+related to your Chase account(s). It may include
+specific details
+about transactions, products or online services. If you
+recently cancelled your account, please disregard this
+message.
+
+Dear Chase OnlineSM Customer:
+
+CHASE ONLINESM Access Re-activation.
+REASON: Billing failure.
+You have an incoming payment stated for your account.
+This transaction cannot be completed due to errors
+present in
+your account informat..."

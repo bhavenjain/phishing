@@ -1,0 +1,15 @@
+Westpac Bank	19th May 2018
+Online Verification
+
+"Message-ID:
+79f8171f3d65ccd8b3add0ae0808d1ad@westpac.co.nz
+X-Sender: noreply@westpac.co.nz
+User-Agent: Roundcube Webmail/1.2.3
+X-AntiAbuse: This header was added to track abuse,
+please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.draculaweb.com
+X-AntiAbuse: Original Domain - bigfoot.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47
+12]
+X-AntiAbuse: Sender Address Domain - westpac.co.nz
+X-Get-Message-Sender-Via: server1.draculaw..."

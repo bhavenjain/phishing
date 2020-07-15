@@ -1,0 +1,17 @@
+NatWestCreditCards@natwest.com	20th May 2018
+Your recent bill is ready - NatWest credit card.
+
+"X-CMAE-Envelope:
+MS4wfNS8SsStx10mS6JqjY7IC3S3sDrfrb7CYR319Uap6X2vx4q6OPM
+yjYnXZbwDXTWhg6h86Crwc6dWdXUt+EWTpAvsRpe+nJAawwr+1R7BJj
+luo8n9xXL/
+xcj8dOwPoFA/MUEnUQOiNx7VzETyxfPPDi/5FsRTvlHHQBjKjypn7R
+YTJ3miA/avqAJm/uNyEoV780x778GkVXCuW9zx11J7QfE=
+
+You will not see this in a MIME-aware mail reader.
+--==============21413013==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+"

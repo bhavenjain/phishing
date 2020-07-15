@@ -1,0 +1,21 @@
+Google	22nd October 2018
+CANNABIS GUMMIES Without a Prescription in All 50
+States
+
+"
+CONTENT-TYPE: multipart/alternative;
+boundary="00000000000046f0d10578d49659"
+
+X-ORIGINAL-SENDER: pow@kingpro.fun
+
+X-ORIGINAL-AUTHENTICATION-RESULTS: mx.google.com;
+dkim=pass header.i=@kingpro.fun header.s=google
+header.b=r4mo0Rt+;
+spf=pass (google.com: domain of pow@kingpro.fun
+designates 209.85.220.65 as permitted sender)
+smtp.mailfrom=pow@kingpro.fun; dmarc=pass (p=NONE
+sp=NONE dis=NONE) header.from=kingpro.fun
+
+PRECEDENCE: list
+
+MAILING-LIST: l..."

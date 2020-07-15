@@ -1,0 +1,19 @@
+service@paypal.com	20th May 2018
+attention your paypal account need update immediatly
+
+"MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-OriginalArrivalTime: 25 Jan 2017 11:43:53.0014 (UTC)
+FILETIME=[4D714560:01D27700]
+
+Your account need update.
+Dear user,
+We hope you?re happy with your PayPal account and are
+enjoying a faster, more secure way to pay. To contineu
+use all
+your account features please update your account
+information within 48 hours or your account will be
+deleted paypal and
+update your ac..."

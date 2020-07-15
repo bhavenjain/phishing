@@ -1,0 +1,46 @@
+USAA	19th May 2018
+Urgent - Incoming Payment Transfer On Hold
+
+"Message-ID:
+ERS-TERM1reBBsQwY6Y00000301@ERS-Term1.ersindustries.loc
+al
+X-OriginalArrivalTime: 16 Nov 2016 11:40:52.0573 (UTC)
+FILETIME=[48F9A8D0:01D23FFE]
+
+To ensure delivery to your inbox, please add
+USAA.Web.Services@customermail.usaa.com to your address
+book.
+
+New Money Transfer
+View Accounts | Privacy Promise | Contact Us
+
+USAA SECURITY ZONE
+Money
+Transfer
+USAA # ending in: XXXX
+
+Dear Customer,
+
+A money transfer has just been sent to ..."
+
+Santander Bank	19th May 2018
+ONLINE BANKING SECURITY ALERT
+
+"
+Dear Customer,
+
+Your santander account has been restricted due to
+invalid information. We're sorry for the inconvenience,
+Our system has
+detected some missing information in your account.
+Therefore, your access has been disabled, we may need
+some further
+information.
+
+To restore your account access please click the link
+below and follow the verification process steps. This
+email is sent
+automatically by our system when detecting missing
+informations.
+
+Get Started...."

@@ -1,0 +1,20 @@
+REGIONS	19th May 2018
+New 15 Important Message From REGIONS
+"howiem@bigfoot.com"
+
+"Message-ID:
+20161107161059.90F3DF01E5DDB09C@systemsupport-adminsupp
+ort.org
+MIME-Version: 1.0
+Content-Type: multipart/related;
+boundary="----=_NextPart_000_0012_361AF4BB.B22C8F9A"
+X-Originating-IP: [142.54.162.222]
+X-ClientProxiedBy:
+CY1PR10CA0005.namprd10.prod.outlook.com (10.162.208.15)
+To
+CY1PR20MB0013.namprd20.prod.outlook.com
+(10.162.40.139)
+X-MS-Office365-Filtering-Correlation-Id:
+986a20ec-be31-46de-3a75-08d4076bbc63
+X-Microsoft-Exchange-Diagnostics:
+<..."

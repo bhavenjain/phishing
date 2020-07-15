@@ -1,0 +1,20 @@
+NatWest.	19th May 2018
+NatWest - Account Review Notification
+
+"
+Dear Customer,
+
+Please note that starting from January 24, 2017 we
+will be introducing new online banking authentication
+procedures in
+order to protect the private information of all online
+banking users.
+
+You are required to confirm your online banking
+details with us as you will not be able to have access
+to your accounts
+until this has been done.
+
+As youre already registered for online banking all you
+need to do is to confirm your online banking details.
+"

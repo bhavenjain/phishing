@@ -1,0 +1,28 @@
+ExxonMobil Smart Card	3rd March 2019
+Get 12 cents off* every gallon at 11,000+ Exxon & Mobil
+stations
+
+"
+X-MSFBL:
+NWM3YzA2NGQ6OGVjOTZmYWI5ODc1YmE2MDA4M2NkM2FjZGIyZWJlY
+mU1YTVjMjhhNQ ==
+
+CONTENT-LENGTH: 29741
+
+X-ANTIVIRUS: Avast (VPS 190303-2, 03/03/2019),
+Inbound message
+
+X-ANTIVIRUS-STATUS: Clean
+
+The Exxon Mobil Smart Card | Save on Fuel!
+
+Limited time offer! Apply by 4/30/19.
+
+Get the ExxonMobil? Smart Card and you may never
+pay full price for gas again.
+
+PLUS, ENJOY EVEN MORE PERKS:
+
+Ongoing Savings
+
+There?s no..."

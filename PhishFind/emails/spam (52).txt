@@ -1,0 +1,21 @@
+PayPal	5th December 2018
+Transaction ID: 9FB71675F9224162B
+
+"
+Your PayPal account update
+
+Dear PayPal User,
+
+For your safety some information on your account
+appears to be missing or incorrect.
+Please update your information promptly so that you
+can continue to enjoy
+all the benefits of your PayPal account.
+If you don't update your information within 2 days,
+we'll limit and suspend your paypal account.
+sorry for any inconvenience caused by our security
+measurements
+
+PayPal Account Update
+
+If you ne..."

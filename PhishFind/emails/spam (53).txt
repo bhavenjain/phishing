@@ -1,0 +1,25 @@
+service@paypal.com	6th December 2018
+Payment
+
+"PayPal instant payment received
+Dec 06, 2018 Transaction ID: 72127442SE379543F
+
+Dec 06, 2018
+Transaction ID: 72127442SE379543F
+
+Hello
+
+You received a payment of £212.41 GBP
+
+Thanks for using PayPal. To see all the transaction
+details, download your PayPal Transaction details file:
+
+
+Get transaction details file
+
+It may take a few moments for this transaction to
+appear in your account.
+
+Seller Protection - Eligible
+
+Quest..."

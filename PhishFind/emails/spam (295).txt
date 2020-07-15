@@ -1,0 +1,30 @@
+service@intI.paypaI.com	20th May 2018
+REMINDER : YOUR PURCHASE INVOICE HAS BEEN ISSUED -REF
+#5YJ60743M42534507
+
+"
+13 Aug 2017
+Transaction ID: 5YJ60743M42534507
+
+You sent a payment of $199.99 USD to Werewolvesgame.
+
+It may take a few moments for this transaction to
+appear in your account.
+
+Merchant
+Werewolf Team
+support@werewolvesgame.com
++1 5412463082 Instructions to merchant
+You haven't entered any instructions.
+
+Description
+Unit price
+Qty
+Amount
+
+Recharge Diamonds
+$19.99 USD
+1 0
+$199.99 USD
+
+SUBTOTAL"

@@ -1,0 +1,23 @@
+paypal	19th May 2018
+attention your paypal accont has been limited
+
+"MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-OriginalArrivalTime: 19 Jan 2017 16:42:33.0006 (UTC)
+FILETIME=[081C8CE0:01D27273]
+
+We need your help resolving an issue with your PayPal
+account
+
+Dear user,
+
+To get back into your PayPal account, you'll need to
+Confirm that you're the owner of the account
+
+It's easy:
+
+* Click the link below to open a secure browser
+window.
+* Confirm that you're the ..."

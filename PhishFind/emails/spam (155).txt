@@ -1,0 +1,23 @@
+Bank of America	20th May 2018
+Bank of America Alert: Account Suspicious
+
+"
+Activity Alert
+
+PERSONAL CHECKING/SAVINGS ACCOUNT
+
+IP-Conflict detected on your account
+
+Dear Valued Customer,
+
+We're letting you know that we've detected multiple
+IP-Conflict on your online account, which will result
+to
+restrictions and closure of your online account, Kindly
+verify your account below to ensure the safety of your
+assests
+and online account.
+
+For verification click
+http://www.bankofamerica.com/verify to restore and
+ensure the..."

@@ -1,0 +1,35 @@
+Order Confirmation AppIe	20th May 2018
+Re: [Invoice] Thank you for your purchase at Apple
+Store Order from Dec 26, 2017.
+
+"
+Invoice
+
+Thanks For Purchased
+Billed To
+AppIe ID PRICE
+USD 38.00
+
+Date
+26 Dec 2017 07:01 AM (GMT 0)
+
+ID ORDER
+ML45FH7F1KH DOKUMEN NO.
+911790444911
+
+App Store
+TYPE
+PURCHASE FROM
+PRICE
+
+Mobile Legends: Bang bang, 2,500 Diamonds
+Purchase In-App
+iPhone 6s
+USD 38.00
+
+PRICE
+
+USD 38.00
+
+If you did not authorize this purchase, please visit
+to MANAGE ORDER..."

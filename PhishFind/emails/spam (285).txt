@@ -1,0 +1,21 @@
+Eve	20th May 2018
+[Action Required]Unrecognized Account Access
+Notification
+
+"
+UNRECOGNIZED ACCOUNT ACCESS NOTIFICATION
+
+The email address associated with your account is
+melgina@aol.com
+
+We have reasons to believe your account may have been
+accessed from previously unrecognized device and or
+location we
+are not sure if this was you or someone else, in order
+to keep you safe we temporarily freeze access to your
+account.
+
+To get back in to your account use get started button
+below. upon completion your account will be restored.
+We advise
+you ..."

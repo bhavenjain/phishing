@@ -1,0 +1,22 @@
+Chase online	19th May 2018
+Your account information require Update
+
+"
+Note: This is a service message with information
+related to your Chase account(s). It may include
+specific details
+about transactions, products or online services. If
+you recently cancelled your account, please disregard
+this message.
+
+
+Chase Internet Services
+
+This email is to inform you that we have now closed
+your account.
+
+Our system will automatically delete your account
+within 0 day(s).
+
+If you do not want this to happen then please Login
+here immed..."

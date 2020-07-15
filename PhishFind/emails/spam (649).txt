@@ -1,0 +1,21 @@
+ACCOUNT TEAM OFFICE	18th May 2018
+ID: 133 - Email Security Alert! (Oct. 2017)
+
+"
+Unusual Activity Detected
+
+We detected something unusual about a recent activity
+to your e-mail account. To help keep you safe, we
+required an
+extra security challenge. You will need to verify your
+email account below to confirm that the recent activity
+was yours
+and to regain access and enjoy our unlimited service.
+Failure to verify will lead to permanent suspension of
+your
+account
+
+What happened?
+VERIFY NOW
+
+* Using a shared computer to access your a..."

@@ -1,0 +1,27 @@
+Components Update Digest	19th May 2018
+**** Component Update Digest
+
+"
+COMPONENT UPDATE DIGEST
+
+Hi Alan Perry
+
+Your components downloaded from ComStore are all
+up-to-date.
+
+In addition, the following new Components have been
+made available on the ComStore:
+
+* UPGRADE KASPERSKY ENDPOINT SECURITY 10 SP1 MR2 TO
+MR3 [WIN]
+
+Thanks,
+
+Endpoint Management Notification Service
+
+Click here to unsubscribe from this digest
+
+-------------------------
+
+This email has been checked for viruses by Avast
+antivi..."

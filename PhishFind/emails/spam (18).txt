@@ -1,0 +1,17 @@
+service	1st October 2019
+Important ? We noticed unusual activity in your PayPal
+account
+
+"Return-path: Envelope-to: spoof@millersmiles.co.uk
+Delivery-date: Tue, 01 Oct 2019 04:09:55 +0100
+Received: from
+[185.186.244.208] (portB566 helo=server.vnmre.com) by
+server5.webserver25.net with esmtp (Exim 4.87)
+(envelope-from ) id
+1iF8Xz-0003XW-BE for spoof@millersmiles.co.uk; Tue, 01
+Oct 2019 04:09:55 +0100 Received: from [185.7.214.101]
+(portS556
+helo=User) by server.vnmre.com with esmtpa (Exim 4.92)
+(envelope-from ) id 1iF3tH-00080I-1U; Tue, 01 Oct 2019
+00:11:35
++0200 Reply-To..."

@@ -1,0 +1,20 @@
+paypal	19th May 2018
+Your account has been Iimited !
+
+"MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-OriginalArrivalTime: 26 Dec 2016 16:04:27.0832 (UTC)
+FILETIME=[BC20AB80:01D25F91]
+
+Case ID Number: PP-003-523-157-760
+Dear Customer,
+
+Your accounts has been limited until we hear from you
+
+We regularly check the activity of your ?ay?al
+accounts. Recently, we found that some of the
+activities you are
+violating your agreement with us. Therefore, we have
+limited ..."

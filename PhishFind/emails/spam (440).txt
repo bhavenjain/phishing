@@ -1,0 +1,19 @@
+Westpac Bank	19th May 2018
+Online Banking
+
+"Message-ID: c2ad8ab7e1426e03b0453cda37f650f4@localhost
+X-Sender: westpac@westpac.co.nz
+User-Agent: Roundcube Webmail/1.2.1
+
+Dear Customer,
+
+Your account requires additional verification. We
+apologize for any inconvenience.
+
+Click on www.westpac.co.nz/secure to verify your
+account details.
+
+Thank you for helping us keep your account safe.
+
+THANKS FOR BANKING WITH US.
+..."

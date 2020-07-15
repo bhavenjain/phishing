@@ -1,0 +1,22 @@
+Amazon.com	20th May 2018
+Your Amazon.com order cannot be shipped
+
+"
+PAYMENT REFUND ORDER #D01-9294635-404748
+
+DEAR CUSTOMER,
+
+We are having trouble authorizing your payment for your
+order. Please verify or update your payme nt method.
+
+WHAT DOES THIS MEAN FOR YOU?
+
+You are required to provide us a valid billing address
+and phone number.
+
+Click Here to Update Your Address
+
+After your information has been validated you should
+get your refund within 3 business days.
+
+(c) Amazon.com, Inc. or its affiliates. All r..."

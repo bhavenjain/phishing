@@ -1,0 +1,24 @@
+Apple	19th May 2018
+Your iTunes account will be deactivated .
+
+"Message-ID:
+6c5ff1a4828de5c2f9d5f61470a0dc65@jeunesacteurs.cdcsudgi
+ronde.fr
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+iTunes Store
+
+Hello Dear Customer
+Hello Dear Customer Your iTunes ID has been disabled
+approximately you have to update your full personal
+information.
+your iTunes account will be deactivated permanently
+within 24 hours if you do not update it.
+
+Update Now
+
+We hope to see you again soon.
+
+Sincere..."

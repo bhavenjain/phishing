@@ -1,0 +1,15 @@
+Chase Bank Alert	19th May 2018
+.Chase.Bank.Attention: A new payee has been added
+
+"X-Priority: 1 (High)
+Sensitivity: Company-Confidential
+X-AntiAbuse: This header was added to track abuse,
+please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns0.dpdigital.net
+X-AntiAbuse: Original Domain - bigfoot.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47
+12]
+X-AntiAbuse: Sender Address Domain - estarr.com
+X-Get-Message-Sender-Via: ns0.dpdigital.net:
+authenticated_id: info@amprol.com.mx
+X-Authenticated-Sender: ns0.dpdigital.ne..."

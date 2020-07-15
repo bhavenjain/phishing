@@ -1,0 +1,16 @@
+PayPall	20th May 2018
+Your Account Has Ben Limited until we hear from You
+
+"X-AntiAbuse: This header was added to track abuse,
+please include it with any abuse report
+X-AntiAbuse: Primary Hostname - web.jamesmeadows.co.uk
+X-AntiAbuse: Original Domain - bigfoot.com
+X-AntiAbuse: Originator/Caller UID/GID - [532 531] /
+[47 12]
+X-AntiAbuse: Sender Address Domain -
+web.jamesmeadows.co.uk
+X-Get-Message-Sender-Via: web.jamesmeadows.co.uk:
+authenticated_id: bethtom/only user confirmed/virtual
+account not
+confirmed
+X-Authenticated-Sender: web.jamesmead..."

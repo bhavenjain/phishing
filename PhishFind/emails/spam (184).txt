@@ -1,0 +1,22 @@
+PayPal	20th May 2018
+Your account Has Been locked !
+
+"
+PAYPAL SECURE
+
+Dear Client.
+We have noticed that some data from your account
+information seems
+inaccurate or unverified. You have to check your
+information in order
+to continue using our service smoothly, please check
+your account
+information by clicking the link below.
+
+CHECK MY ACCOUNT
+-------------------------
+
+COPYRIGHT 1999-2018 PAYPAL. ALL RIGHTS RESERVED.
+
+
+..."

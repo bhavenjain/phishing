@@ -1,0 +1,21 @@
+Admin	26th August 2019
+Account Notification
+
+"
+Dear User,
+
+Your Account was recently signed in from a unknown
+Location, please Verify Here for verification to avoid
+account
+closure.
+
+Sincerely.
+
+Yahoo Mail.
+
+YAHOO!
+
+© 2019 Yahoo and its licensors. All rights reserved.
+
+
+..."

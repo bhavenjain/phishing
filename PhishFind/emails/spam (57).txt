@@ -1,0 +1,21 @@
+Apple Support	17th December 2018
+Re: [ Statement Update ] [ Mail Important ] Reminder:
+Important Alert Your Apple ID Account was sign in to
+
+"iCloud With Other Device! 12/12/2018 14:14:05.
+
+YOUR APPLE ID HAS BEEN LOCKED FOR SECURITY REASONS.
+
+Your Apple lD (KAMINANGA@HOTMAIL.COM) was used to
+sign in to iCloud via a browser from another device and
+location.
+
+Date and Time: 12/12/2018 14:14:05 GMT
+Browser: Safari
+Operating System: iOS 10
+Location: Oman
+
+Someone may have your password to access your
+account and make some change on your account
+information. For your
+safety, we've tempo..."

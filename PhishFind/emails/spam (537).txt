@@ -1,0 +1,23 @@
+Amazon UK	19th May 2018
+Your Amazon.co.uk order "Apple Leather..."
+
+"
+#Amazon
+
+#Dear Customer
+
+#Your ID pwhitt35@hotmail.co.uk was used to purchase
+Apple Leather Case for iPhone 6s Plus, Black (42.39
+GBP)
+
+#From Amazon Store on a device that had not previously
+been associated with you.
+#If you initiated this purchase, you can disregard
+this email.
+
+#If you did not initiate this purchase, please go to:
+
+http://2order.inv-upd2699.ps01amuk.co.uk/psam/index.ph
+p?email=pwhitt35@hotmail.co.uk
+
+#To cancel the trans..."

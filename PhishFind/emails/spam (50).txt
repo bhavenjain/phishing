@@ -1,0 +1,24 @@
+Account alert	28th November 2018
+Avoid mailbox deactivation
+
+"
+Server Message
+
+DEAR PAULHAMMON@HOTMAIL.COM
+
+Our record indicates that your mail quota is full and
+your email will be deactivated, and this request will
+be
+processed shortly.
+
+You are advised to upgrade your account and cancel the
+request now
+
+Upgrade And Cancel De-activation
+
+However, if you do not upgrade and cancel this
+request, your account will be de-activated shortly and
+all your email
+data will be lost permanently.
+
+Regards..."

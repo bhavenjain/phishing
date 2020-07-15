@@ -1,0 +1,16 @@
+Netflix	19th May 2018
+Account Notification
+
+"
+NETFLIX
+
+Customer,
+
+We noticed an issue in your account ,
+please verify your account to activate your
+membership.
+
+Activate now
+
+
+..."

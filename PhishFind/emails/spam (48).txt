@@ -1,0 +1,22 @@
+service@intl.paypal.com	20th November 2018
+Reminder: Your account will be limited until you
+provide some additional information!
+
+"
+-------------------------------------------------------
+---------------
+We need your help
+------------------------------------------------------
+----------------
+
+Dear customer,
+
+We emailed you a little while ago to ask for your help
+resolving an issue
+with your PayPal account. Your account is still
+temporarily limited because
+we haven't heard from you.
+
+We understand it may be frustrating not to have full
+access to your PayPal
+account. We want to work wi..."

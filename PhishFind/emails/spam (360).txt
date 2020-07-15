@@ -1,0 +1,23 @@
+TalkTalk	20th May 2018
+Account authentication
+
+"
+ACCOUNT AUTHENTICATION
+
+We are introducing new security features to TalkTalk
+My Account. All customers must get their accounts
+verified again.
+We want to make sure that we have the correct acount
+information. Please take a moment to authenticate your
+account.
+Thank you for helping us!Get Started ?
+
+PLEASE NOTE: Failure to complete our account
+authentication process can lead to suspension of
+services.
+
+Best regards,
+
+TalkTalk
+
+---------------------..."

@@ -1,0 +1,26 @@
+PayPal	18th May 2018
+Your account has been limited ! ?
+
+"
+Dear Client,
+
+What's the problem ?
+
+* Your Information records are out of date.
+* That requires you to verify the Billing Information.
+
+* Click here, and verify your information on the
+following page.
+
+Yours sincerely,
+PayPal
+
+Help Centre | Security Centre
+
+Please do not reply to this email because we are not
+monitoring this inbox. To get in touch with us, log in
+to your
+account and click "Contact Us" at the bottom of any
+page.
+
+Copyrigh..."

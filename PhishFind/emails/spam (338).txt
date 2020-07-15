@@ -1,0 +1,19 @@
+Navy Federal Credit Union	20th May 2018
+Navy Federal Credit Union Alert! : Account Verification
+Update!
+
+"X-Priority: 3
+X-Library: Indy 8.0.25
+Message-Id:
+20170310215752.MNTX8024.dalofep04.suddenlink.net@exch
+X-Cloudmark-Analysis: v=2.2 cv=F/wVTepN c=1 sm=0 tr=0
+a=6Iz7jQTuP9IA:10 a=7px3DVPhAAAA:8 a=UInu7EHCAAAA:8
+a?ya00NtIlTnNcYAzUEA:9 a=CH8CxBZVz0G1wn98:21
+a=aUwr1lioPYLcmfEH:21 a=waA5wTp2RAig9UNJ:21
+a=_W_S_7VecoQA:10
+a=oSmi8mIqYY8A:10 a=rMmH2_h7154A:10
+a=EHEDJIwYroWmvcNlW3Kx:22 a=pZS1LBG7-MXXthJFrCSa:22
+
+Dear Account Holder,
+
+You have received this email for security..."

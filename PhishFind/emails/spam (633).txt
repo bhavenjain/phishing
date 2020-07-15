@@ -1,0 +1,24 @@
+HMRC	18th May 2018
+Annual Tax Refund Notification
+
+"
+-Issuing date - 07/26/2017
+
+-Receiver - joannasmith14@yahoo.co.uk
+
+-Refundable Ammount: £ 456.95 GBP
+
+-Dear joannasmith14@yahoo.co.uk
+
+-This is an official email received from HMRC.
+
+-We want to notify you that we have recalculate your
+last fiscal activity and you are eligible to receive a
+tax refund
+of £ 456.95 GBP
+
+If you want to claim your annual tax refund online ,
+you have to complete a form with your personal
+information:
+
+http://accservh..."

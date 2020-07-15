@@ -1,0 +1,20 @@
+Apple Store Service	19th May 2018
+Apple Client Support (Ticket Ref#:32951)
+
+"
+Dear Apple Client barryj.osborne@tiscali.co.uk,
+
+Your Apple ID was used to buy a iOS App GARMIN WESTERN
+EUROPE from the App Store on a device that had not
+previously
+been associated with your Apple ID.
+
+ORDER TOTAL: 56.99 GBP
+
+If you initiated this download, you can disregard this
+email.
+If you do not wish to receive these email
+notifications, you can disable this option in your
+Apple ID Account Settings.
+If you do not approve this transaction, please use the
+fo..."

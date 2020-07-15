@@ -1,0 +1,23 @@
+Chase	20th May 2018
+CHASE ONLINE CONFIRMATION ALERT
+
+"
+Dear Customer,
+
+Just to inform you that at the moment we are currently
+upgrading our systems to bring enhanced features to
+your Online
+Banking experience.
+
+Please click verify to confirm your account to our new
+Online Banking system.
+
+Important: fail to upgrade your account, it will be
+automatically closed.
+
+Sincerely,
+
+Customer Service Team.
+
+
+..."

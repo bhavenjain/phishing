@@ -1,0 +1,25 @@
+Apple ID	20th May 2018
+Reminder: We have updates on our Policy Update page,
+service [246]
+
+"
+We've noticed that some of your account information
+appears to be missing or incorrect to avoid
+interruption of your
+account please sign in to the Apple ID and verify your
+account. If we don't receive the information before
+this
+deadline, we will disable your account for security
+reasons.
+
+Please verify your account information by clicking on
+the link below
+
+Log In Here
+
+We appreciate your time.
+
+Best wishes,
+Apple Community
+
+______________..."

@@ -1,0 +1,23 @@
+Information	19th May 2018
+Account Information
+
+"MIME-Version: 1.0
+Content-Type: multipart/alternative;
+
+boundary="_=aspNetEmail=_1678343c4bb54f239e4b5e6a881eb2
+d7"
+Message-ID:
+DESKTOPQS14GPQ63a1820e0b0449f9b60faf30eb85f55d@DESKTOPQ
+S14GPQ
+
+We've change your password
+
+Hello, howiem@loxinfo.co.th
+
+We just wanted to confirm that you’ve changed your
+password. If you didn’t make this change. please
+check
+information in here
+
+It’s important that you let us know because it helps
+us prevent unauthorised..."

@@ -1,0 +1,25 @@
+Chase	30th January 2019
+ACH NOTICE OF CHANGE [SECURE]
+
+"
+Dear ,
+
+You scheduled a payment of $4,653.57 for your account
+ending in Regular Business Checking-2684.
+
+https://secmail.Chase.com/formpostdir/securereader?id=M
+hGfQ-SxZSFTwXTjrYTMx_SwzjiJgT-PyD&brandr959198
+
+Following is the detail:
+
+Batch Name:
+Batch Type: CCD
+Payment Type: Receive a Payment
+Offset Account: Business Checking-2684
+Effective Date: 01/24/2019
+
+Total Credits (QTY)
+$4,653.57 (1)
+
+Total Debits (QTY)
+$4,653..."

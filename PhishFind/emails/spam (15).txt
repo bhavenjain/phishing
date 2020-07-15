@@ -1,0 +1,22 @@
+PayPal Service	23rd September 2019
+Your account was limited at this time. [ ID:
+#sOdOuaCWJB ]
+
+"
+We need your help to resolve the problem with your
+PayPal account. In the meantime, to help protect your
+account, we
+temporarily limit what you can do with it.
+
+WHAT IS GOING ON?
+
+We have noticed a number of unusual activities on your
+PayPal account and are concerned about the potential
+for
+unauthorized account access.
+
+WHAT SHOULD BE DONE NEXT?
+
+Please log in to your PayPal account and follow the
+steps there to confirm your identity and recent
+account..."

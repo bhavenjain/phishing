@@ -1,0 +1,24 @@
+Support Team	20th May 2018
+Account Notification !
+
+"MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+
+Hello , It seems that one or more unauthorized devices
+was connected to your account
+
+Please update your account info or it will be closed !
+
+
+* Click on the Button Below
+* Log In Enter email and password
+* Verify Your Informations To Activate Your Account
+
+Thanks ,
+
+UPDATE NOW
+
+This email was sent to Your Email, because your email
+preference..."

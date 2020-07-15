@@ -1,0 +1,24 @@
+USAA	19th May 2018
+Account Locked - Your USAA Preference Verification
+Required
+
+"Message-ID:
+MEMMDT01am5R4r3mbfJ00000a5f@MEMMDT01.MDT.Local
+X-OriginalArrivalTime: 28 Oct 2016 18:57:14.0189 (UTC)
+FILETIME=[1895F7D0:01D2314D]
+
+To ensure delivery to your inbox, please add
+USAA.Customer.Service@mailcenter.usaa.com to your
+address book.
+
+USAA SECURITY ZONE
+Security
+Preference
+USAA # ending in: XXXX
+
+ACCOUNT PREFERENCES VERIFICATION
+
+Dear CUSTOMER,
+
+Our records show that some detailed Information on
+your USAA account is not ..."

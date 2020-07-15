@@ -1,0 +1,24 @@
+.Aol.	3rd December 2019
+UPDATE
+
+"
+AOL.
+
+HI ,
+Our record indicates that you recently made a request
+to shutdown your email. And this request will be
+processed
+shortly.
+
+If this request was made accidentally and you have no
+knowledge of it, you are advised to cancel the request
+now by
+clicking stop Account Shutdown.
+
+Cancel Account Shutdown
+
+However, if you do not cancel this request,your account
+will be shutdown shortly
+and all your email data will be lost permanently.
+Regards.
+..."

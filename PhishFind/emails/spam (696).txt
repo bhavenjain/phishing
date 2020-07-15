@@ -1,0 +1,22 @@
+USAA	19th May 2018
+Your Incoming Payment Transfer On Hold
+
+"Message-ID:
+EG02PiZxOASWTgZu6WY00000dd3@EG02.eg1003.local
+X-OriginalArrivalTime: 20 Jan 2017 18:50:58.0166 (UTC)
+FILETIME=[23286960:01D2734E]
+
+To ensure delivery to your inbox, please add
+USAA.Web.Services@customermail.usaa.com to your address
+book.
+
+Payment Received
+View Accounts | Privacy Promise | Contact Us
+
+USAA SECURITY ZONE
+USAA # ending in: XXXX
+
+Dear USAA Customer,
+
+You have a new incoming payment transfer on hold. For
+security reasons, W..."

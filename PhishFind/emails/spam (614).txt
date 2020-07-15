@@ -1,0 +1,27 @@
+Support	19th May 2018
+[PAYPAL] PLEASE CONFIRM YOUR INFORMATIONS
+
+"
+Confirm information
+
+Confirm your information
+
+Dear user,
+
+Confirm your account information now to let us know it
+really belongs to you.
+
+In case you did not confirm it, your account will be
+limited after 24 hours.
+
+You can access your statement when logged into your
+account simply but we need you to confirm your
+information.
+
+Confirm your account
+
+Yours sincerely,
+PayPal
+
+
+..."

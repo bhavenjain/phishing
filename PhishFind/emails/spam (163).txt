@@ -1,0 +1,22 @@
+service	20th May 2018
+Warning : Unusual activities on your PayPal account
+
+"
+PAYPAL
+
+WARNING : UNUSUAL ACTIVITIES ON YOUR PAYPAL ACCOUNT
+
+If you are seeing the messages this means that your
+account has been visited from an unusual place given
+below :
+
+IP : 176.97.103.90
+Country : Ukrania
+City : Odessa
+
+As a security measure, your account has been Iimited.
+
+Continue
+
+
+..."

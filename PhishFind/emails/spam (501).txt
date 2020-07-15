@@ -1,0 +1,24 @@
+O2	20th May 2018
+Your O2 bill is already ready
+
+"
+Your O2 bill
+
+Welcome to O2
+
+Hello,
+
+Your bill for 07/04/17 is now ready, and this month it
+comes to £262.07. We will take it of from your account
+at the
+payment day, or a little bit after.
+
+To watch your latest bill online anytime:
+
+http://www.o2.co.uk/business/billing
+
+(JsReport - JavaScript based reporting platform)
+
+Please note that this email has been sent to you from
+an unmonitored email account so we will not be able
+to..."

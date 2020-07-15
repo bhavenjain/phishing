@@ -1,0 +1,23 @@
+USAA	19th May 2018
+Your USAA Preference Verification Required
+
+"Message-ID:
+DFRDESTWINm99L3U60U00002347@DFRDESTWIN.DFRICHARD.com
+X-OriginalArrivalTime: 30 Oct 2016 19:58:15.0620 (UTC)
+FILETIME=[F3CB8040:01D232E7]
+
+To ensure delivery to your inbox, please add
+USAA.Customer.Service@mailcenter.usaa.com to your
+address book.
+
+USAA SECURITY ZONE
+Security
+Preference
+USAA # ending in: XXXX
+
+ACCOUNT PREFERENCES VERIFICATION
+
+Dear CUSTOMER,
+
+Our records show that some detailed Information on
+your USAA account i..."

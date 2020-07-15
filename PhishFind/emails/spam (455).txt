@@ -1,0 +1,22 @@
+Microsoft	19th May 2018
+Your Amazon.co.uk card payment could not be completed
+
+"IMPORTANCE: High
+
+MESSAGE FROM CUSTOMER SERVICE TO
+ANTON.ROBERTS@BLUEYONDER.CO.UK
+
+Greetings from Amazon.co.uk,
+
+Your card payment method could not be completed.
+
+A card provider will often decline an attempt to
+charge a payment card if the
+
+name, expiry date, or postcode you entered does not
+exactly match their information.
+
+We recommend you select an option to create a new
+payment method when prompted
+
+and enter the complete information for t..."

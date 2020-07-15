@@ -1,0 +1,25 @@
+HSBC Bank	19th May 2018
+Validate Your Account
+
+"
+IMPORTANT NOTICE
+
+Warning,
+
+Some information on your account appears to be missing
+or incorrect.
+
+Please confirm your information promptly so that you
+can continue to enjoy all the benefits of your HSBC
+account.
+
+If you don't confirm your information, we'll limit
+what you can do with your HSBC account.
+
+Here's a link to all the legal details.
+
+Validate your account Here
+
+Thank you for being a HSBC customer.
+
+-------------------------"

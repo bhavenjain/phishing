@@ -1,0 +1,16 @@
+Tesco	20th May 2018
+Tesco Bank Alert - Your Account
+
+"Message-Id: 20170625222028.162C33F19D4@www1.the
+X-Xifos-MailScanner-Information: Please contact the ISP
+for more information
+X-Xifos-MailScanner-ID: F00CC406FEC.AE9FB
+X-Xifos-MailScanner: Found to be clean
+X-Xifos-MailScanner-SpamCheck: not spam (whitelisted),
+SpamAssassin (cached,
+score=2.47, required 4, SPF_SOFTFAIL 0.97, TVD_PH_SEC
+1.50)
+X-Xifos-MailScanner-From:
+onlineservicing@creditcards.tescobank.com
+X-CMAE-Envelope:
+MS4wfKNhixqlhINTYPMZYe6IkthYHiTh3kN4ZI8yqTPUoug..."

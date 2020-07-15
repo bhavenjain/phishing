@@ -1,0 +1,24 @@
+Microsoft.com Team	11th July 2018
+REMINDER: Account closure alert
+
+"
+Reminder Alert.
+Dear Attn user,
+
+We received your request on the 01/07/2018 to close
+your account on this date 12/07/2018. If this was an
+error, please
+kindly cancel the request to stop this action or your
+account will be closed.
+
+CANCEL REQUEST
+
+NB: Failure to cancel command will result to immediate
+closure of your account.
+
+Sincerely,
+
+Microsoft Support Team.
+
+
+..."

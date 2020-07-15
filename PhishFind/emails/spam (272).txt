@@ -1,0 +1,23 @@
+Natwest	20th May 2018
+IMPORTANT INFORMATION FROM NATWEST
+
+"
+You are receiving this email to aware you that your
+account has been locked for security reasons.
+
+To protect your account we have disabled all access
+to your online.
+
+To restore access we require you to complete our
+account verification process
+
+which should only take a few minutes to complete,
+please use the link below to get started.
+
+Get Started =
+
+Best regards,
+NatWest Support
+
+
+..."

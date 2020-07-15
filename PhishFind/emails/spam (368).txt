@@ -1,0 +1,24 @@
+NatWest.	20th May 2018
+RESTRICTED ACCOUNT ACCESS - NATWEST PLC.
+
+"
+Dear Customer,
+
+We noticed some unusual activity in your NatWest
+account. To help protect you, we've temporarily blocked
+your account.
+
+WHY ARE YOU SEEING THIS?
+Due to possible errors, Your account violates our
+Terms of Service.
+
+HOW CAN YOU UNBLOCK YOUR ACCOUNT?
+The fastest way to unblock your NatWest account is to
+verify your account.
+
+If you haven't setup a mobile phone in your account,
+please contact Customer Support.
+
+Yours sincerely,
+
+..."

@@ -1,0 +1,21 @@
+PayPal_Support	19th August 2019
+Your Access to Main PayPal Account has been Restricted!
+
+"
+DEAR CUSTOMER,
+
+We noticed some unusual activity on your PayPaI
+account and are concerned about potential unauthorized
+account access.
+To protect your informations against misuse, access to
+your account will remain limited until you complete the
+necessary
+steps.What you need to do?
+
+Click in button below and complete the steps to
+confirm your identity and recent account activity.
+
+SECURE YOUR ACCOUNT
+
+Copyright 1999-2019 PayPaI inc , All rights reserved.
+<..."

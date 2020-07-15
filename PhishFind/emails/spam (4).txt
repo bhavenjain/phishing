@@ -1,0 +1,21 @@
+service@paypal.com	19th May 2018
+Receipt for Your Payment to cleverbridge, Inc
+
+"
+mcclin2000@hotmail.com - Reminder : Your PayPal
+account was opened from another device
+
+March 15, 2017 13:29:11 PDT
+Transaction ID: 9SA57818XL053022U
+
+Hello mcclin2000@hotmail.com,
+
+You sent a payment of $59.88 USD to cleverbridge, Inc
+(cs@cleverbridge.com)
+It may take a few moments for this transaction to
+appear in your account.
+
+MERCHANT
+cleverbridge, Inc
+cs@cleverbridge.com INSTRUCTIONS TO MERCHANT
+You haven't entered any instruct..."

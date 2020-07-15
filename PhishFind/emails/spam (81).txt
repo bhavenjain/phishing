@@ -1,0 +1,27 @@
+WellsFargo-Bank	3rd February 2019
+Account Notification
+
+"
+ID: #456S6D9R406MH
+
+ALERT : There Were Some Suspecious Purchases With Your
+Debit Card
+
+HERE ARE SOME DETAILS ABOUT THIS ATTEMPS :
+
+Location
+Date/Time
+
+91.242.31.05 (India)
+02/02/2019
+
+WHY ACCESS LIMITED ?
+
+We've limited your access and the reason is we believe
+that the attempted purchase with your debit card wasnt
+you .
+Your account has been limited for security reasons.
+
+WHAT I NEED TO DO ?
+
+To fix this problem you ..."

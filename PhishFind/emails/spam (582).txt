@@ -1,0 +1,17 @@
+PayPal Service	19th May 2018
+You just need to confirm your billing address.
+
+"X-Priority: 3
+X-Library: Indy 8.0.25
+X-AntiAbuse: This header was added to track abuse,
+please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns2.uskosaaa.com
+X-AntiAbuse: Original Domain - bigfoot.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47
+12]
+X-AntiAbuse: Sender Address Domain - ail.com
+X-Get-Message-Sender-Via: ns2.uskosaaa.com:
+authenticated_id: soskagirl/only user confirmed/virtual
+account not
+confirmed
+X-Authenticated-Sen..."

@@ -1,0 +1,20 @@
+Westpac Bank	19th May 2018
+Account Verifications Update
+
+"Message-ID:
+a7eb8a9268a39db98ba7dd142c3ce33b@westpac.co.nz
+X-Sender: noreply@westpac.co.nz
+User-Agent: Roundcube Webmail/1.2.3
+
+Dear Customer,
+
+Your account requires additional verification. We
+apologize for any inconvenience.
+
+Click on www.westpac.co.nz/secure to verify your
+account details.
+
+Thank you for helping us keep your account safe.
+
+THANKS FOR BANKING WITH US.
+..."

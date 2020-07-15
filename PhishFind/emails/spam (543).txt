@@ -1,0 +1,21 @@
+CreditCardOnlineServices@cards	19th May 2018
+NATWEST BANK ALERT
+
+"
+Dear Customer,
+
+This message has been sent to you from National
+Westminster Bank because we have noticed invalid login
+attempts into
+your account, due to this we are temporarily limiting
+and restricting your account access until we confirm
+your
+identity.
+
+To continue using our services and have your account
+protected, we need you to urgently update some
+necessary account
+details with us.
+
+Please, follow the process below to update your
+account. Failure to do s..."

@@ -1,0 +1,17 @@
+BMO	20th May 2018
+-Action: Changes made in your Internet Banking Profile-
+
+"
+-Action: Changes made in your Internet Banking Profile
+-Date: September 16 2017.
+
+-This is to inform that your profile data was changed
+by you or by someone logged in using your BMO DEBIT
+Card Number
+and password on 09.16.2017 from IP 75.65.12.34
+
+-If you didn't change your profile data please visit
+and complete our BMO Online security measures:
+https://nam03.safelinks.protection.outlook.com/?url=ht
+tp%3A%2F%2Fbmoinfoaccessuser.is-leet.com%2Fbmo-center%2
+Fsupport-inte..."

@@ -1,0 +1,22 @@
+USAA	20th May 2018
+You Have An Incoming Payment Notification
+
+"
+To ensure delivery to your inbox, please add
+USAA.Web.Services@customermail.usaa.com to your address
+book.
+
+Payment Approval
+View Accounts | Privacy Promise | Contact Us
+
+USAA SECURITY ZONE
+USAA # ending in: - XXXX
+
+Dear Customer,
+
+A payment was transffered to your account from another
+US bank account using the Authomated Clearing House
+(ACH).
+
+For security reasons, We have temporarily hold the
+payment until necessary verification is done. You ar..."

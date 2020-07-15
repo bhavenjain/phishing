@@ -1,0 +1,19 @@
+PayPal Service	19th May 2018
+Recent Purchase
+
+"
+Untitled Document
+PayPal Transaction ID: O-6PJ56132282837533
+Dear a.m.goss@btinternet.com,
+
+You submitted an order amounting to 15.00 GBP to Clarks
+
+Thanks for using PayPal making your online
+transactions. Your account will be charged when the
+merchant processes your
+payment. You may receive multiple emails as the
+merchant processes your order.
+
+If you aren't sure about this transaction or you didn't
+make this purchase please review the transaction bellow
+"

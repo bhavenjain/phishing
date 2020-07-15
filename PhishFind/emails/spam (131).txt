@@ -1,0 +1,16 @@
+service	8th September 2019
+Your account has been limited until we hear from you
+
+"Content-Transfer-Encoding: 7bit X-Priority: 1
+X-MSMail-Priority: High X-Mailer: Microsoft Outlook
+Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE
+V6.00.2600.0000 X-AntiAbuse: This header was added to
+track abuse, please
+include it with any abuse report X-AntiAbuse: Primary
+Hostname - server.example.com X-AntiAbuse: Original
+Domain -
+millersmiles.co.uk X-AntiAbuse: Originator/Caller
+UID/GID - [47 12] / [47 12] X-AntiAbuse: Sender Address
+Domain -
+intl.paypal.com X-Get-..."

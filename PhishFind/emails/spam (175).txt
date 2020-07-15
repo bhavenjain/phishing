@@ -1,0 +1,53 @@
+A??le-ID	20th May 2018
+INVOICE: This email confirms your purchase of the
+following subscription
+
+"
+Dear; brianwizc@sky.com
+
+This email confirms your purchase of the following
+subscription.
+
+NAME OF SUBSCRIPTION
+
+:
+
+NETFLIX 1 S PLAN
+
+NAME OF APPLICATION
+
+:
+
+NETFLIX
+
+CONTENT PROVIDER
+
+:
+
+NETFLIX, INC.
+
+DATE OF PURCHASE
+
+:
+
+JANUARY 6, 2018
+
+SUBSCRIPTION PERIOD
+
+:
+
+2 MONTH
+
+PRICE
+
+:
+
+66.99
+
+PAYMENT METHOD
+
+:
+
+ITUNES ACCOUNT
+
+The subs..."

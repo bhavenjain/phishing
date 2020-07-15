@@ -1,0 +1,22 @@
+USAA	20th May 2018
+Incoming Payment Awaiting Your Approval
+
+"Message-ID:
+EG02twD43oFLaqSOc7w000002fa@EG02.eg1003.local
+X-OriginalArrivalTime: 08 Feb 2017 12:02:38.0607 (UTC)
+FILETIME=[3E21A1F0:01D28203]
+
+To ensure delivery to your inbox, please add
+USAA.Web.Services@customermail.usaa.com to your address
+book.
+
+Payment Approval
+View Accounts | Privacy Promise | Contact Us
+
+USAA SECURITY ZONE
+USAA # ending in: - XXXX
+
+Dear Customer,
+
+A payment was transffered to your account from another
+US bank account using..."

@@ -1,0 +1,18 @@
+btinternet	20th May 2018
+Your btinternet account settings are out of date.
+
+"
+---------------------------------------------------
+Your BTinternet account is currently unavailable for
+one of the following reasons:
+
+* You are not the primary owner of account. BTinternet
+accounts are set up in the primary owner?s name and
+therefore
+can only be accessed online by the primary owner.
+
+* There is a problem with your home address or
+personal information we have on file.
+
+If you dont get authenticated within the next 48
+hours, then we will assume..."
