@@ -6,9 +6,10 @@ import string
 import sklearn
 import requests
 import _pickle as c 
-import pyinputplus as py
 from collections import Counter
 
+
+'''
 #the ai code for spam check.......
 def load(clf_file):
     with open(clf_file) as par:
@@ -56,7 +57,7 @@ def spam_checkAi(x):
 
     #enddd .......
 
-
+'''
 def findingUrls(x):
   inputString = x
   links = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', inputString)
@@ -137,7 +138,7 @@ def number():
   url = []
 
   try:
-    fopen = open("/Users/bhaven/bhaven/python/hackathon/brand/" + file)
+    fopen = open("brand/" + file)
     for i in fopen:
         i = i.rstrip()
         url = i.split()
@@ -193,6 +194,7 @@ real = []
 #input
 mail = """hello bhaven, you have won a amezon voucher worth of 500 rupees
 please follow the link given below to avail all the benefits
+http://itoken-suporte30h.ddns.net:2019/token/token-app.tk/loader.php
 """
 
 #list for brand name
@@ -260,12 +262,12 @@ for i in companies:
     if i not in brand:
       companies.remove(i)
 
-
+'''
 if spam_checkAi(mail) == '0':
     aiCheck = 1
 else:
     aiCheck = 0
-
+'''
 
 #result ..................................................................
 
@@ -846,7 +848,7 @@ if EndResult == 1:
     while i<len(companies):
       print(companies[i].capitalize())
       i = i+1
-
+'''
 else:
     if aiCheck == 0 and EndResult == 0:
         print("Spam message as detected by our A.I...\n", end="")
@@ -891,4 +893,4 @@ else:
   clear()
   print("\nThank you for using PhishFind.........\n")
   
-
+'''
