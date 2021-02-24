@@ -242,7 +242,7 @@ for i in links:
   response = requests.get("https://jsonwhois.com/api/v1/whois",
               headers={
                 "Accept": "application/json",
-                "Authorization": "Token token=1d1279b6c95fa95219c040f4f3b6a936"
+                "Authorization": "Token token={token}"
               },
               params={
                 "domain": i
@@ -260,7 +260,7 @@ for i in links:
   # apivoid threat level detection api
   host = data['domain']
   response1 = requests.get(
-      "https://endpoint.apivoid.com/threatlog/v1/pay-as-you-go/?key=22e61728908b1f484874fa0245267890958b76be&host=" + host)
+      "https://endpoint.apivoid.com/threatlog/v1/pay-as-you-go/?key={key}" + host)
 
   data1 = response1.json()
   try:
@@ -274,7 +274,7 @@ for i in links:
   #mutiple api status linkin through apivoid
   host = data['domain']
   response2 = requests.get(
-      "https://endpoint.apivoid.com/domainbl/v1/pay-as-you-go/?key=22e61728908b1f484874fa0245267890958b76be&host=" + host + "&exclude_engines=ThreatLog,SpamhausDBL,Spam404")
+      "https://endpoint.apivoid.com/domainbl/v1/pay-as-you-go/?key={key}" + host + "&exclude_engines=ThreatLog,SpamhausDBL,Spam404")
   data2 = response2.json()
   data2 = data2['data']
   data2 = data2['report']
